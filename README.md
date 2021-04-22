@@ -4,3 +4,4 @@ Página Web dedicada a la búsqueda de videos educativos enfatizado en el área 
 INTEGRANTES
 - Daniel Casarrubia Madera (Cuenta Institucional)
 - Cristian Causil Quintero (Cuenta Institucional)
+- Lina María López Amador (Cuenta Institucional)
