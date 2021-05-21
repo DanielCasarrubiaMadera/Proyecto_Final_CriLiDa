@@ -1,0 +1,25 @@
+{
+  "name": "Proyecto_Final_CriLiDa",
+  "version": "1.0.0",
+  "description": "Página Web dedicada a la búsqueda de videos educativos enfatizado en el área de Ciencias Naturales, específicamente en la temática de la Célula.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCasarrubiaMadera/Proyecto_Final_CriLiDa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielCasarrubiaMadera/Proyecto_Final_CriLiDa/issues"
+  },
+  "homepage": "https://github.com/DanielCasarrubiaMadera/Proyecto_Final_CriLiDa#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
