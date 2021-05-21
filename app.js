@@ -3,7 +3,7 @@ const app = express();
 const port = 3000; 
 
 app.get('/', (req, res) => { 
-  res.send('Bienvenidos todos, este es un espacio enfatizado en las ciencias naturales para que aprendamos a buscar videos educativos relacionados con el área. '); 
+  res.send('En este buscador podras tener una experiencia unica al momento de buscar videos educativos en base al área de ciencias naturales'); 
 });
 
 
